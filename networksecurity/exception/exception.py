@@ -1,5 +1,5 @@
 import os
-from networksecuirity.logging.logger import logging
+from networksecurity.logging.logger import logging
 import sys
 
 logging.info("NetworkSecurityException NetworkSecurityException module loaded successfully")
